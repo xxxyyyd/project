@@ -4,3 +4,6 @@ Hello Vue.js
 
 edit by xiaoxiao
 
+我是天下无敌的
+没有人能战胜我
+
